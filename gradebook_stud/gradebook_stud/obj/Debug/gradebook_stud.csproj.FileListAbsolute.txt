@@ -1,0 +1,5 @@
+c:\users\prasanna\documents\visual studio 2012\Projects\gradebook_stud\gradebook_stud\bin\Debug\gradebook_stud.dll
+c:\users\prasanna\documents\visual studio 2012\Projects\gradebook_stud\gradebook_stud\bin\Debug\gradebook_stud.pdb
+c:\users\prasanna\documents\visual studio 2012\Projects\gradebook_stud\gradebook_stud\obj\Debug\gradebook_stud.csprojResolveAssemblyReference.cache
+c:\users\prasanna\documents\visual studio 2012\Projects\gradebook_stud\gradebook_stud\obj\Debug\gradebook_stud.dll
+c:\users\prasanna\documents\visual studio 2012\Projects\gradebook_stud\gradebook_stud\obj\Debug\gradebook_stud.pdb
